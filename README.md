@@ -1,6 +1,6 @@
    # 👋 Hi, I'm Bayram!
 
-   ![Programmer GIF](https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif)
+   
 
 
 Welcome to my GitHub profile! I'm a passionate Node.js backend developer dedicated to crafting scalable and efficient server-side applications.
@@ -51,3 +51,5 @@ I thrive on solving complex problems and transforming them into robust, high-per
 ---
 
 I look forward to collaborating and contributing to exciting projects! Feel free to explore my repositories and get in touch.
+
+![Programmer GIF](https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif)
