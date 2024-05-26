@@ -1,27 +1,6 @@
    # 👋 Hi, I'm Bayram!
 
-   <svg
-      width="400px"
-      height="400px"
-      viewBox="0 0 1024 1024"
-      class="icon"
-      version="1.1"
-      xmlns="http://www.w3.org/2000/svg"
-      fill="#000000"
-   >
-      <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-      <g
-         id="SVGRepo_tracerCarrier"
-         stroke-linecap="round"
-         stroke-linejoin="round"
-      ></g>
-      <g id="SVGRepo_iconCarrier">
-         <path
-            d="M864 64H160c-17.6 0-32 14.4-32 32v832c0 17.6 14.4 32 32 32h704c17.6 0 32-14.4 32-32V96c0-17.6-14.4-32-32-32zM474.8 743.1H284.1c-19.4 0-35.1-15.7-35.1-35.1V316c0-19.4 15.7-35.1 35.1-35.1h190.6c19.4 0 35.1 15.7 35.1 35.1v392c0 19.4-15.7 35.1-35.1 35.1z m217.2-305.1H532c-4.4 0-8 3.6-8 8v236c0 4.4 3.6 8 8 8h160c4.4 0 8-3.6 8-8V446c0-4.4-3.6-8-8-8z m0-140H532c-4.4 0-8 3.6-8 8v68c0 4.4 3.6 8 8 8h160c4.4 0 8-3.6 8-8v-68c0-4.4-3.6-8-8-8z"
-            fill="#e6e6e6"
-         ></path>
-      </g>
-   </svg>
+   ![Programmer GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
 
 Welcome to my GitHub profile! I'm a passionate Node.js backend developer dedicated to crafting scalable and efficient server-side applications.
